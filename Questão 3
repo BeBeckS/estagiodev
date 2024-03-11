@@ -1,0 +1,39 @@
+a) 1, 3, 5, 7, ___
+
+Lógica: Sequência de números ímpares crescentes.
+
+Próximo elemento: 9
+
+b) 2, 4, 8, 16, 32, 64, ____
+
+Lógica: Sequência de potências de 2.
+
+Próximo elemento: 128
+
+c) 0, 1, 4, 9, 16, 25, 36, ____
+
+Lógica: Sequência de quadrados dos números naturais.
+
+Próximo elemento: 49
+
+d) 4, 16, 36, 64, ____
+
+Lógica: Sequência de quadrados dos números pares.
+
+Próximo elemento: 100
+
+e) 1, 1, 2, 3, 5, 8, ____
+
+Lógica: Sequência de Fibonacci, onde cada número é a soma dos dois anteriores.
+
+Próximo elemento: 13
+
+f) 2, 10, 12, 16, 17, 18, 19, ____
+
+Lógica: Sequência complexa com múltiplas regras:
+
+Números pares: somados com 8.
+Números ímpares terminados em 1: somados com 1.
+Números ímpares terminados em 7: subtraídos de 1.
+
+Próximo elemento: 20
