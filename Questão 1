@@ -1,0 +1,28 @@
+Iteração 1:
+
+K é igual a 0.
+K é incrementado para 1.
+SOMA é atualizado para 0 + 1 = 1.
+Iteração 2:
+
+K é igual a 1.
+K é incrementado para 2.
+SOMA é atualizado para 1 + 2 = 3.
+Iteração 3:
+
+K é igual a 2.
+K é incrementado para 3.
+SOMA é atualizado para 3 + 3 = 6.
+...
+
+Iteração 13:
+
+K é igual a 12.
+K é incrementado para 13.
+SOMA é atualizado para 78 + 13 = 91.
+
+Conclusão:
+
+Após 13 iterações do loop, K será igual a INDICE e o loop terminará. O valor final de SOMA será 91, que é a soma de todos os números de 1 a 13.
+
+Resultado final: 91
