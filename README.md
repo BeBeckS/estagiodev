@@ -4,4 +4,4 @@ Questões seguem individuais para melhor organização dos arquivos.
 
 ## Funcionalidades
 
-A linguagem escolhida para desenvolvimento dos algoritmos foi "C".
+A linguagem escolhida para desenvolvimento dos algoritmos/programas foi "C".
