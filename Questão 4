@@ -1,0 +1,17 @@
+Na primeira visita:
+
+Ligar o primeiro interruptor e aguardar alguns minutos.
+Desligar o primeiro interruptor e ligar o segundo interruptor.
+Deixar o terceiro interruptor desligado.
+Depois disso, entrar na sala das lâmpadas e observar:
+
+Se uma lâmpada estiver acesa, então o primeiro interruptor controla essa lâmpada.
+Se uma lâmpada estiver desligada, mas ainda estiver quente, então o segundo interruptor controla essa lâmpada.
+Se uma lâmpada estiver desligada e fria, então o terceiro interruptor controla essa lâmpada.
+
+Na segunda visita:
+
+Ligar apenas um dos interruptores que não foi testado na primeira visita e entrar na sala das lâmpadas.
+Agora podemos determinar qual interruptor controla a lâmpada restante com base na observação anterior.
+
+Com esse método, podemos identificar qual interruptor controla cada lâmpada em apenas duas visitas à sala das lâmpadas.
